@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 /* An Import to replace the all the Font Family Related CSS Classes */
 
-.todos-bg-container {
+.todos-bg-container-fluid {
     background:url("me.jpg");
     height: 100vh;
     background-size:cover;
@@ -53,12 +53,12 @@
     font-weight: 500;
 }
 
-.todo-items-container {
+.todo-items-container-fluid {
     margin: 0px;
     padding: 0px;
 }
 
-.todo-item-container {
+.todo-item-container-fluid {
     margin-top: 15px;
 }
 
